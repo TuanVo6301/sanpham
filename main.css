@@ -532,20 +532,6 @@ strong{
     width: 2px;
     background: #fff;
 }
-.about-item span {
-    font-size: 40px;
-    font-weight: 600;
-    color: #4a647e;
-}
-.about-item strong {
-    font-size: 18px;
-}
-.aboutus-bottom{
-    margin-bottom: 50px;
-}
-
-
-
 .media-container {
     width: 100%;
     padding-right: 15px;
